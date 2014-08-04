@@ -1,4 +1,4 @@
-# ["Rapid Application Development with CakePHP 2"](http://josediazgonzalez.com/cakephp-book/) [<img src="http://f.cl.ly/items/2G3L2E143o1F1y1f1706/Screenshot%202013-10-15%2018.05.29.png">](https://github.com/josegonzalez/rad-cakephp-2/issues/new)
+# [RAD with CakePHP 2](http://josediazgonzalez.com/cakephp-book/) [<img src="http://f.cl.ly/items/2G3L2E143o1F1y1f1706/Screenshot%202013-10-15%2018.05.29.png">](https://github.com/josegonzalez/rad-cakephp-2/issues/new)
 
 Issue Tracker for the ["Rapid Application Development with CakePHP 2"](http://josediazgonzalez.com/cakephp-book/) BOOK
 
